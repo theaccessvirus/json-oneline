@@ -1,6 +1,7 @@
 # Max Patch Formatter
 
-A command-line tool to format Max/MSP patch files (.maxpat) or JSON files into a more compact and readable format.
+A command-line tool to format Max/MSP/M4L (Max For Live) patch files (.maxpat) or JSON files into a more compact and readable format.
+**If you have M4L (Max For Live device) open the patch in max and select all -> copy/paste to any text editor and save as JSON.**
 
 ## Features
 
